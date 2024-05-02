@@ -131,6 +131,9 @@ $RECYCLE.BIN/
 *.lnk
 
 .env
+app/
+soly-env/
+
 
 # End of file
 
