@@ -1,0 +1,8 @@
+fastapi
+graphene
+graphene-sqlalchemy
+uvicorn
+psycopg2
+python-jose
+python-multipart
+python-dotenv
